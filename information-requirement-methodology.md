@@ -91,6 +91,7 @@ The flowchart shown in Figure 5 has this outline pattern:
 -	The final stage is to develop the business case for the options developed and address the wider business considerations (and commitments) that are needed for them to succeed.  This may result in some iterations to align the information management improvements with other business cycles but the cost and benefit of doing this will be clear if the Stages have been executed clearly.  For the range of considerations that are likely to be within scope for an organisation that has achieved a high level of information management maturity please refer to West [[3]](#references) on the Information Management Landscape.  For insight into how to get to this level of information management maturity refer to [Pending publication].
 
 ![image](./img/stage4.png)
+
 *Figure 5 – Stage 4, Evaluate and Decide on Approach to Information Management*
 
 #	References
