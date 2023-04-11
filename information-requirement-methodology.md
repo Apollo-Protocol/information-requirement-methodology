@@ -9,9 +9,11 @@ Addressing data quality to ensure that it is fit for purpose requires an organis
 ## Introducing a method based on continuous improvement
 A mature approach to information management ensures that data is at the right quality to support the required decisions [[2]](#references). Achieving this and maintaining it requires an approach of continuous improvement to data quality.  It is also beneficial to build up to a high level of maturity progressively and, while the methodology (this term is used as it aims to be a complete “system of methods” for the activity of managing information to the required quality) can look daunting before it is used, it can be useful to have an integrated view of a continuously applicable method for any application.  It is broken down into four stages. This methodology, presented as a set of flowcharts, covers a general approach to identify and then meet the information requirements in any context that needs data at the required quality. While this document introduces a comprehensive method, it is predicated on organisations having reached a point of recognition that there is a need to address data quality in a way that enables improved decisions within their organisation and with those they have data-based relationships with.  The scope of its application and the degree to which each stage (and each part of each stage) is followed will depend on the adopter’s information management maturity at the time of use and the ambition to improve at each iteration of application.  The method in Figure 1 is based on iterations of the following four stages, with an initial point of entry into it as a result of a decision to commit to data quality within an organisation, department or group.  
 
-### Embark on Data Quality Improvement
+## Embark on Data Quality Improvement
 
 Assess and prioritise areas for data quality improvement.  Try to set an ambitious but achievable goal in the first iteration, accepting that getting it right first time may be challenging.  Ideally gain sufficient senior support for doing this from the outset.
+
+# Stage Overview
 
 ### Stage 1 - Identify Lifecycle Activities and Decisions Required
 Identify and describe activities through process modelling techniques [[2]](#references) to document the activities, their participants and the decisions required.
@@ -32,7 +34,10 @@ The methodology is intended to be self-explanatory, but its application will req
 It is recommended that prior to its first use there is an understanding of the organisation’s current level of information management maturity and an agreement for some initial priority areas to adopt the methodology. It can also be useful to seek advice on how deeply to apply each step on first use.  Once bootstrapped this methodology should directly support increasing levels of information management maturity in the areas that adopt it and accommodate the increase in scope of its application within and between organisations.
 
 ![image](./img/overview.png)
+
 *Figure 1 - Overall methodology for meeting Information Requirements through continuous data quality improvement*
+
+# The Stages
 
 ## Stage 1: Identify Lifecycle Activities and Decisions Required
 This Stage is where the analysis of the intended activities within the scope of the selected data quality improvement starts.  It is a flow chart based on the Lifecycle Activity and Process Modelling introduced by Cook [[2]](#references).  By establishing a lifecycle view of the activities being analysed it reveals anything that needs to be involved, or considered, in those activities and the lifecycle of information relating to each participating element of the activity. Conducting this Stage rigorously sets the basis for addressing data quality in the subsequent Stages.  Compromising quality here will compromise the quality of the entire methodology.  The first time this Stage is conducted within a particular scope of data quality improvement there may be limited input material or a “No” to each diamond-shaped decision block in the Flowcharts.  However, once started the material created should not just support the next steps in each flowchart but also provide the input material for the next iteration of the quality improvement cycle.
@@ -48,6 +53,7 @@ Involving experts and others familiar with the current ways of doing these sorts
 Once there is sufficient clarity on all the decisions and participants involved in the activities that are in-scope then the Stage is complete for this quality improvement cycle and the Information Requirement capture can now take place in Stage 2.
 
 ![image](./img/stage1.png)
+
 *Figure 2 – Stage 1, Identify Lifecycle Activities and Decisions Required*
 
 ## Stage 2: Identify Information Requirements
@@ -60,6 +66,7 @@ The flowchart in Figure 3 follows this general pattern:
     -	Once the type(s) of the participant have been identified then the other aspects of the participant, the information required about it, should be identified and addressed through a similar process.  This includes qualitative and quantitative properties as well as qualifiers on the management of the information relating to the participant.  This can include compliance needs, security controls, ownership information, timeliness needs, accuracy required, provenance records, etc.  In early iterations of this methodology there may be limited capability (in the adopting organisations and in the features available in the available RDL) to elaborate all the requirements using the RDL(s) alone.  However, this is (in the limit) the goal for an enduring and mature use of an Information Management Framework (IMF). The aim of the TLO is to enable any, and all, information requirements to be accommodated formally and consistently.  This will take time to achieve but the quality management approach, based on information management maturity, shouldn’t be limited by this progressive approach to availability of RDL classes and class patterns as the use of the IMF grows.
 
 ![image](./img/stage2.png)
+
 *Figure 3 - Stage 2, Identify Information Requirements that Support the Decisions*
 
 ##	Stage 3: Conduct IR Gap Analysis
@@ -71,6 +78,7 @@ The flowchart shown in Figure 4 adopts a similar method to the previous Stages:
 -	A final step should be the aggregation of the gap analysis and a summary of any general themes, priority areas to address and any recommendations that are relevant to Step 4.
 
 ![image](./img/stage3.png)
+
 *Figure 4 -  Stage 3, Conduct Information Requirements Gap Analysis*
 
 ##	Stage 4: Evaluate and Decide Approach to Information Management
@@ -85,12 +93,12 @@ The flowchart shown in Figure 5 has this outline pattern:
 ![image](./img/stage4.png)
 *Figure 5 – Stage 4, Evaluate and Decide on Approach to Information Management*
 
-##	References
+#	References
 1. West, Matthew. Developing High Quality Data Models, 1st Edition. s.l. : Morgan Kaufmann, 2010. ISBN: 9780123751072. [Link](https://www.elsevier.com/books/developing-high-quality-data-models/west/978-0-12-375106-5)
 2. Cook, A. An integrated approach to information management. 2021. [Link](https://www.cdbb.cam.ac.uk/what-we-do/national-digital-twin-programme/resource-integrated-approach-information-management)
 3. West, Matthew. Managing Shared Data (Pending publication). 2022.
 
-## Further Reading
+# Further Reading
 1. ISO/TC184/SC4. Industrial automation systems and integration — Integration of life-cycle data for process plants including oil and gas production facilities — Part 13: Integrated asset planning life-cycle. ISO/DIS 15926-13. [Link](https://www.iso.org/standard/70694.html)
 2. INCOSE, IEEE Systems Council, Stevens Institute of Technology. Guide to the Systems Engineering Body of Knowledge (SEBoK), V2.2. 2020. [Link](https://sebokwiki.org/w/images/sebokwiki-farm!w/6/66/SEBoK_v_2.6_20220520.pdf)
 3. INCOSE. Integrated Data as a Foundation of Systems Engineering. 2018. [Link](https://www.omgwiki.org/MBSE/lib/exe/fetch.php?media=mbse:rwg_data_as_a_foundation_of_se_draft_5_050218_review_copy.pdf)

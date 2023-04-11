@@ -10,11 +10,11 @@ Section 2 explains that the only requirement to get started is a recognition tha
 
 ##	Where can I get help?
 
-Documentation and other supporting material will be produced as the IMF is developed.  The National Digital Twin Programme is here to help so please get in touch to ask questions and to find communities that are on the same journey.
+Documentation and other supporting material will be produced as the IMF is developed.  The [Apollo Protocol](https://digitaltwinhub.co.uk/networks/29-the-apollo-protocol/) is supporting this space so please get in touch to ask questions and to find communities that are on the same journey.
 
 ## Can I get involved in pilot activities or the development of the RDL?
 
-Having a go is the best way to learn.  You don’t need to wait but there will be opportunities to participate in pilot activities that will help community development and allow sharing of developing expertise and experience.
+Having a go is the best way to learn.  You don’t need to wait but there will be opportunities to help community development and allow sharing of developing expertise and experience.
 
 ##	I have invested a lot in my current information systems, do I need to start again?
 
@@ -22,7 +22,7 @@ No, although it can initially appear that way.  Taking an objective look at the 
 
 ##	Are there any tools, products or services available to help?
 
-A key message is that it is the commitment to improving data quality and the application of the methodology that is the primary goal of this document.  These documents illustrate the approach to setting up the IMF and supporting its adoption.  This should result in tools being created and adapted as progress is made.
+A key message is that it is the commitment to improving data quality and the application of the methodology that is the primary goal of this document.  These documents illustrate the approach to capturing information requirements and supporting its adoption.  This should result in tools being created and adapted as progress is made. An early prototype has been developed [here](https://github.com/Apollo-Protocol/4d-activity-editor).
 
 ##	It looks like I need to know the future to execute this methodology
 
@@ -34,7 +34,7 @@ Data has been commoditised over a few decades as computers, storage and communic
 
 ##	I have seen recent standards and industry bodies calling for information requirements to be addressed in detail. Does this methodology fit with that?
 
-Yes.  This methodology directly addresses this.  In recent years documents have increasingly referenced addressing information requirements at any required level of detail.  Doing this is generally left as an exercise for organisations to discover for themselves.  The IMF and documents like this provide a way to address this need.
+Yes.  This methodology directly addresses this.  In recent years documents have increasingly referenced addressing information requirements at any required level of detail.  Doing this is generally left as an exercise for organisations to discover for themselves.  Documents like this provide a way to address this need.
 
 ##	Can I not just map data between systems at their interfaces?
 
