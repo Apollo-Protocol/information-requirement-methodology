@@ -1,5 +1,5 @@
-![Apollo Protocol Logo](https://raw.githubusercontent.com/Apollo-Protocol/information-requirement-methodology/main/img/apollo-protocol-logo.png#gh-light-mode-only)
-![Apollo Protocol Logo](https://raw.githubusercontent.com/Apollo-Protocol/information-requirement-methodology/main/img/apollo-protocol-logo-dark-mode.png#gh-dark-mode-only)
+![Apollo Protocol Logo](https://raw.githubusercontent.com/Apollo-Protocol/.github/main/profile/apollo-protocol-logo.png#gh-light-mode-only)
+![Apollo Protocol Logo](https://raw.githubusercontent.com/Apollo-Protocol/.github/main/profile/apollo-protocol-logo-dark-mode.png#gh-dark-mode-only)
 
 # A Methodology for Meeting Information Requirements
 _A systematic approach to identifying information requirements and subsequently meeting them throughout any activity lifecycle_
