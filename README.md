@@ -14,7 +14,8 @@ We welcome feedback and suggestions from anyone interested in this approach of m
 
 # Licence
 
-These terms of reference are released under the terms of the Creative Commons Attribution-NoDerivatives 4.0 International [license](LICENCE.md).
+This methodology is released under the terms of the Creative Commons Attribution-NoDerivatives 4.0 International [license](LICENCE.md) and is covered by [Crown Copyright](https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/).
 
 # Acknowledgments
-The initial release of this methodology was contributed by Al Cook building on his previous work from [Cook et al., 2021](https://www.cdbb.cam.ac.uk/what-we-do/national-digital-twin-programme/resource-integrated-approach-information-management): _An integrated approach to information management_
+
+The initial release of this methodology is by the National Digital Twin Programme with additional contributions by Al Cook building on his previous work: [Cook et al., 2021](https://www.cdbb.cam.ac.uk/what-we-do/national-digital-twin-programme/resource-integrated-approach-information-management): _An integrated approach to information management_
